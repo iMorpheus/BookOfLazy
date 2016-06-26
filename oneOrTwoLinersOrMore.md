@@ -1,6 +1,7 @@
 # Automate. AUTOMATE. AUTOMATE!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~ Visit this, open that app, play this, edit this....~~~~~~~~~~~~~~~~~~~~~~~~~~
+### .bash_profile
 
 - alias DST='open http://destinytracker.com/destiny/query/ps/EyeMorph ;
 open http://guardian.gg/en/profile/2/EyeMorph/5' *Need to check my gaming stats.*
