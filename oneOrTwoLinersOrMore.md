@@ -1,8 +1,7 @@
 # Automate. AUTOMATE. AUTOMATE!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~ Visit this, open that app, play this, edit this....~~~~~~~~~~~~~~~~~~~~~~~~~~
-### .bash_profile
-
+## .bash_profile
 - alias DST='open http://destinytracker.com/destiny/query/ps/EyeMorph ;
 open http://guardian.gg/en/profile/2/EyeMorph/5' *Need to check my gaming stats.*
 - alias iT='open -a iTunes' *Self-explanatory: Open iTunes.*
@@ -11,3 +10,10 @@ open http://guardian.gg/en/profile/2/EyeMorph/5' *Need to check my gaming stats.
 - alias EditBash='pico ~/.bash_profile'   *Early on, it was necessary for me to edit my profile page every thirty seconds.*
 - alias YTD='youtube-dl' *Passes url to youtube-dl for downloading. NOTE: Might add -f mp4 to avoid the occassional .webm download.*
 - alias bin='cd ~/bin/ ; clear ; ls -FC' *Ugh, what was the name of that script/directory?*
+
+
+## Scripts/Functions: Work and podcast related.
+- mp32m4a.sh: *Convert .mp3 files to .m4a via afconvert*
+- T2S.sh (Text to Speech): *Directs say() to convert selected text file into an audio file.*
+- wav2m4a.sh (.wav to .m4a): *Directs afconvert() to convert .wav to .m4a.*
+- StatsGen.sh (Stats Generator): *Generates number of downloads for each episode of Death by Horror*
