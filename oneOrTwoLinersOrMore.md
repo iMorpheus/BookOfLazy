@@ -18,5 +18,5 @@ open http://guardian.gg/en/profile/2/EyeMorph/5' *Need to check my gaming stats.
 - wav2m4a.sh (.wav to .m4a): *Directs afconvert() to convert .wav to .m4a.*
 - StatsGen.sh (Stats Generator): *Generates number of downloads for each episode of Death by Horror*
 
-## Services
+## OS X Services
 - SpeakJapanese: Reads selected Japanese text in the Otoya T2S voice. Why? Because I'm illiterate in Japanese.
