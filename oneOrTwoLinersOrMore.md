@@ -17,7 +17,7 @@ open http://guardian.gg/en/profile/2/EyeMorph/5' *Need to check my gaming stats.
 - T2S.sh (Text to Speech): *Directs say() to convert selected text file into an audio file.*
 - wav2m4a.sh (.wav to .m4a): *Directs afconvert() to convert .wav to .m4a.*
 - StatsGen.sh (Stats Generator): *Generates number of downloads for each episode of Death by Horror*
-- DK_INV.sh: *Generates listening content for my students in male/female en_GB, en_AU & en_US voices.*
+- DK_INV.sh: *Generates listening content in male/female en_GB, en_AU & en_US voices for my students.*
 
 ## OS X Services
 - SpeakJapanese: Reads selected Japanese text in the Otoya T2S voice. Why? Because I'm illiterate in Japanese.
