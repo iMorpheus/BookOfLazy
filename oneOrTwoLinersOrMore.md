@@ -10,7 +10,7 @@ open http://guardian.gg/en/profile/2/EyeMorph/5' *Need to check my gaming stats.
 - alias EditBash='pico ~/.bash_profile'   *Early on, it was necessary for me to edit my profile page every thirty seconds.*
 - alias YTD='youtube-dl' *Passes url to youtube-dl for downloading. NOTE: Might add -f mp4 to avoid the occassional .webm download.*
 - alias bin='cd ~/bin/ ; clear ; ls -FC' *Ugh, what was the name of that script/directory?*
-- alias YTD_A='youtube-dl -x --audio-format m4a' *Rip audio from youtube video. Save as .m4a. Delete original video.
+- alias YTD_A='youtube-dl -x --audio-format m4a' *Rip audio from youtube video. Save as .m4a. Delete original video.*
 
 
 ## Scripts/Functions: Work and podcast related.
